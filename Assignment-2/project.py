@@ -1,4 +1,4 @@
-#Simple the_BMI calculator using python::
+#Implement the full project using python functions only to create BMI calculator::
 
 # define a function name convert to feet,inche::
 def calculate():
@@ -8,7 +8,7 @@ def calculate():
     h_inch += h_ft * 12
     h_cm = round(h_inch * 2.54, 1)
     print ("Your height is : %d cm." % h_cm) 
-calculate()
+calculate() #function call
 
 # asking for input from the users::
 
