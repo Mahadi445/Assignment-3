@@ -1,5 +1,5 @@
 # Assignment-2
-Create a BMI calculator In 	Implement the input feature :
-1.First Convert to inche and feet to centimetre. 
-2.second user input for height and weight cheak Body Mass Index(BMI).
-3.thirdly Get output.
+Create a BMI calculator In 	Implement the input feature and Functions :
+Firstly, Convert to inche and feet to Get your height in centimetre. 
+secondly, user ask for height and weight to calculate Body Mass Index(BMI).
+thirdly, Get output.
